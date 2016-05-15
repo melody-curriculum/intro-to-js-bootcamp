@@ -13,16 +13,16 @@
 	// b) Add the crazy class to the h1
 	// c) Slide toggle #box3
 
-$('#box2').on('click', function () {
-
-}); 
 
 
 // 4. When any .box is clicked, change the text in the header's h1 tag to read "jQuery Ninja"
 
 
-// 5. Have the following code execute when the #box1 is clicked. Write a JavaScript comment with a description of what happened. 
-// $(".moto").attr("src", "images/moto.jpg");
+// 5. Have the following code execute when the #box1 is clicked. Write a JavaScript comment with a description of what happened.
+
+
+// when box one is clicked you are changing the attribute of src
+
 
 
 

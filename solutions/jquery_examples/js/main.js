@@ -25,7 +25,7 @@ $('.special').removeClass('special');
 // .hide()
 $('p').hide();
 // .fadeIn()
-$('h1').fadeIn(3500);
+$('h1').fadeIn(6500);
 
 // .fadeOut()
 

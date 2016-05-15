@@ -6,6 +6,7 @@ $('#fahrenheit_to_celsius').on('click', function () {
 
 	var celsius = (fahrenheit - 32) / 1.8;
 
+
 	// Cut down to two decimal places
 	celsius = celsius.toFixed(2);
 
@@ -30,5 +31,5 @@ $('#celsius_to_fahrenheit').on('click', function () {
 	$("#result").html(celsius + "&deg;C = " + fahrenheit + "&deg;F");
 
 	$('#temperature').val('');
-	
+
 });

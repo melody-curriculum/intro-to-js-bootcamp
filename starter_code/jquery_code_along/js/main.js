@@ -42,7 +42,10 @@ $('#box3 a').on('click', function () {
 * Part 2 - Now you try:
 *
 */
-
-// 1. When the h2 is clicked on
+// 2. When the h2 is clicked on
 	// a) Slide up the h2
 	// b) Add the snazzy class to the h1
+
+
+
+

@@ -22,7 +22,6 @@ $('#item1').html(score);
 
 // 3. Add five to the totalAmount using the += operator
 
-
 // 4. Use jQuery to update the html of #item2 with the value of totalAmount (use the .html() method)
 
 

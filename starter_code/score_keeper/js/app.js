@@ -17,7 +17,6 @@
 //complete step 3:
 
 
-
 //Bonus + Super bonus
 
 function changeScore() {

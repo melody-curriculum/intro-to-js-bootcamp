@@ -14,3 +14,4 @@
 
 // else
 	// $('h1').html(number1 + " is greater than " + number2);
+
